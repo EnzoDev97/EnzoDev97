@@ -27,7 +27,7 @@
 
 <div style="display: inline_block">
 
-
+ <br> <br>
  <h3> Back-end </h3>
 
  <div>
@@ -77,14 +77,15 @@
     />
   </a>
 </p>
-   
+    <br> <br> 
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/EnzoDev97/count.svg" />
  </p>
- 
+       
+  <br> <br> <br> <br>
  ![Snake animation](https://github.com/EnzoDev97/EnzoDev97/blob/output/github-contribution-grid-snake.svg)
  
 </p>
