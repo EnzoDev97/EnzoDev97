@@ -1,34 +1,12 @@
 
-<p align="center">
-  <a href="#">
-    <img align="center" width="900" src="Enzo Dos Santos.jpg" />
-  </a>
 
-</p>
-</br>
-</br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=EnzoDev97&count_private=true&theme=onedark&include_all_commits=true&count_private=true"
-    />
-  </a>
-</p>
 
 ## Olá, eu sou o Enzo!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 
 •	👨‍🎓 Estudante de Engenharia Mecânica , atualmente estou cursando o 9° semestre.<br>
-•	🎯 Interesse: HTML, CSS, JavaScript, Angular, AWS e Docker e Node.js.<br>
+•	🎯 Interesse: HTML, CSS, JavaScript, Angular, AWS e Node.js.<br>
 •	🦊 Sou uma pessoa proativa e impulsionada por desafios que me tirem da zona de conforto. Confiável e comprometido com o que faço, sou uma pessoa muito sociável e amigável, defensora de causas das quais acredito.<br>
 
 • Um poruco sobre mim:
@@ -42,9 +20,10 @@
 
 
 
+
 ## Skills :nerd_face:
 <p align="center">
-  
+      <img align="right" alt="ENZO_HACKER" height="300" width="300" src="https://media.discordapp.net/attachments/884254032917573652/884254147598241812/ENZO_HACKER.gif"> 
 
 <div style="display: inline_block">
 
@@ -69,7 +48,7 @@
 
 
  </div>
-    
+    <br> <br>
 
 ## Contact :iphone:
 
@@ -80,7 +59,25 @@
   <a href="https://https://www.linkedin.com/in/enzo-santos-b20766164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
    </div>
+   
+   <br> <br>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=EnzoDev97&count_private=true&theme=onedark&include_all_commits=true&count_private=true"
+    />
+  </a>
+</p>
+   
 <p align="center"> 
 
  ## Total de Visitas no perfil :detective: <br>
