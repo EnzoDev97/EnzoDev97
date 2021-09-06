@@ -9,7 +9,7 @@
 •	🎯 Interesse: HTML, CSS, JavaScript, Angular, AWS e Node.js.<br>
 •	🦊 Sou uma pessoa proativa e impulsionada por desafios que me tirem da zona de conforto. Confiável e comprometido com o que faço, sou uma pessoa muito sociável e amigável, defensora de causas das quais acredito.<br>
 
-• Um poruco sobre mim:
+• Um pouco sobre mim:
 - Produto 100% Baiano
 - 100% Geek 🤓
 - 100% Gamer 🎮
