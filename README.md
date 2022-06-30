@@ -6,7 +6,7 @@
 ### Sobre mim
 
 •	👨‍🎓 Engenheiro Mecânico.<br>
-•	🎯 Interesse: Python, Excel & Vba, SQL, Analise De Dados, metodologia Ágil.<br>
+•	🎯 Interesse: Python, Excel & VBA, SQL, Analise De Dados, metodologia Ágil.<br>
 •	🦊 Sou uma pessoa proativa e impulsionada por desafios que me tirem da zona de conforto. Confiável e comprometido com o que faço, sou uma pessoa muito sociável e amigável, defensora de causas das quais acredito.<br>
 
 • Um pouco sobre mim:
