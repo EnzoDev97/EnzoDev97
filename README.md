@@ -5,7 +5,7 @@
 
 ### Sobre mim
 
-•	👨‍🎓 Engenheiro Mecânica.<br>
+•	👨‍🎓 Engenheiro Mecânico.<br>
 •	🎯 Interesse: Python, Excel & Vba, SQL, Analise De Dados, metodologia Ágil.<br>
 •	🦊 Sou uma pessoa proativa e impulsionada por desafios que me tirem da zona de conforto. Confiável e comprometido com o que faço, sou uma pessoa muito sociável e amigável, defensora de causas das quais acredito.<br>
 
@@ -39,12 +39,7 @@
   
 </div>
 
- <h3> Front-end </h3>
- 
- <div>
- <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  
 
 
  </div>
