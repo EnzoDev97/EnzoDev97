@@ -1,7 +1,7 @@
 
 
 
-## Olá, eu sou o Enzo!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Olá, eu sou o Enzo!! <img src="https://tenor.com/view/looney-tunes-daffy-duck-moving-eyebrows-eyebrows-gif-16557051" width="30px"></h2>
 
 ### Sobre mim
 
