@@ -1,7 +1,7 @@
 
 
 
-## Olá, eu sou o Enzo!! <img src="[https://tenor.com/view/looney-tunes-daffy-duck-moving-eyebrows-eyebrows-gif-16557051](https://tenor.com/search/hey-gifs)" width="30px"></h2>
+## Olá, eu sou o Enzo!! <img src="https://tenor.com/view/looney-tunes-daffy-duck-moving-eyebrows-eyebrows-gif-16557051](https://tenor.com/search/hey-gifs" width="30px"></h2>
 
 ### Sobre mim
 
