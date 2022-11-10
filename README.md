@@ -1,47 +1,42 @@
 
 
 
-## Olá, eu sou o Enzo!! <img src="https://tenor.com/view/looney-tunes-daffy-duck-moving-eyebrows-eyebrows-gif-16557051](https://tenor.com/search/hey-gifs" width="30px"></h2>
+## Hello ,I'm  Enzo!!👋 </h2>
 
-### Sobre mim
 
-•	👨‍🎓 Engenheiro Mecânico.<br>
-•	🎯 Interesse: Python, Excel & VBA, SQL, Analise De Dados, metodologia Ágil.<br>
-•	🦊 Sou uma pessoa proativa e impulsionada por desafios que me tirem da zona de conforto. Confiável e comprometido com o que faço, sou uma pessoa muito sociável e amigável, defensora de causas das quais acredito.<br>
+•	👨‍🎓👨‍💻 Mechanical Engineer And Future Data Engineer.<br>
+•	🎯 Interest: Python, Excel & VBA, SQL, Data Analysis, Agile Methodology.<br>
+•	🦊 I am a proactive person and driven by challenges that take me out of my comfort zone. Trustworthy and committed to what I do, I am a very sociable and friendly person, an advocate for causes I believe in..<br>
 
-• Um pouco sobre mim:
-- Produto 100% Baiano
+• A little about myself::
 - 100% Geek 🤓
 - 100% Gamer 🎮
-- Books 📚
-- Food ♥️
-- Músic 🎶
-- Sagitariano ♐
+- Bookstan 📚
+- Cook In Spare Time ♥️
+- MUSIC LOVER🎶
+- Sargittarius ♐
 
-
-
-
-## Skills :nerd_face:
-<p align="center">
-      <img align="right" alt="ENZO_HACKER" height="300" width="300" src="https://media.discordapp.net/attachments/884254032917573652/884254147598241812/ENZO_HACKER.gif"> 
-
-<div style="display: inline_block">
-
- <br> <br>
- <h3> Back-end </h3>
-
- <div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  
+<a href="https://github.com/EnzoDev97/EnzoDev97">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoDev97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
 
 
+## Skills :🤓
+
+</div>
+<div style="display: inline_block"><br>
+ </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Enzo-Py"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Enzo-DJ" " src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="Enzo-MSQL"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Rafa-Ganalytics"  src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
+  <img align="center" alt="Rafa-Trello"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+  <img align="center" alt="Rafa-Canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img align="right" alt="ENZO_HACKER" height="135" style="border-radius:50px;" src="https://media.discordapp.net/attachments/884254032917573652/884254147598241812/ENZO_HACKER.gif">   
+</div>
  </div>
     <br> <br>
 
