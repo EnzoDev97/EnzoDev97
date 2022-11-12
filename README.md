@@ -22,11 +22,12 @@
 ### Status
 ----
    
-<a href="https://github.com/EnzoDev97/EnzoDev97">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=EnzoDev97&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
+<p align = "center">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=EnzoDev97&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <br><br>
+    <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=EnzoDev97&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
 
 
 ## Skills :🤓
@@ -68,4 +69,9 @@
  
 </p>
 
+</p>
 
+<h2 align="center"> Thanks For Visiting My Profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
