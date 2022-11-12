@@ -6,7 +6,7 @@
 
 •	👨‍🎓👨‍💻 Mechanical Engineer And Future Data Engineer.<br>
 •	🎯 Interest: Python, Excel & VBA, SQL, Data Analysis, Agile Methodology.<br>
-•	🦊 I am a proactive person and driven by challenges that take me out of my comfort zone. Trustworthy and committed to what I do, I am a very sociable and friendly person, an advocate for causes I believe in..<br>
+•	🦊 I am a proactive person and driven by challenges that take me out of my comfort zone. Trustworthy and committed to what I do, I am a very sociable and friendly person..<br>
 
 <img align="right" alt="ENZO_HACKER" height="200" style="border-radius:40px;" src="https://media.discordapp.net/attachments/884254032917573652/884254147598241812/ENZO_HACKER.gif">   
 
