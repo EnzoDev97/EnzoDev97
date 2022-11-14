@@ -14,7 +14,7 @@
 - 100% Geek 🤓
 - 100% Gamer 🎮
 - Bookstan 📚
-- Cooker In Spare Time ♥️
+- Cooker In My Free Time ♥️
 - Music🎶
 - Sargittarius ♐
 
