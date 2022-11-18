@@ -64,10 +64,10 @@
    <img alingn="center" src="https://profile-counter.glitch.me/EnzoDev97/count.svg" />
  </p>
        
-  <br> <br> <br> <br>
+
  ![Snake animation](https://github.com/EnzoDev97/EnzoDev97/blob/output/github-contribution-grid-snake.svg)
  
-</p>
+</div>
 
 </p>
 
