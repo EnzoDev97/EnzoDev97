@@ -64,9 +64,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/EnzoDev97/count.svg" />
  </p>
        
-
  ![Snake animation](https://github.com/EnzoDev97/EnzoDev97/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 </p>
