@@ -18,18 +18,6 @@
 - Music🎶
 - Sargittarius ♐
 
-
-### Status
-----
-   
-<p align = "center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=EnzoDev97&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
-  <br><br>
-    <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=EnzoDev97&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-
 ## Skills :🤓
 
 </div>
@@ -47,7 +35,10 @@
  </div>
     <br> <br>
 
-##  How To Reach Me 
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                                                     
+ ##  How To Reach Me 
 
 <div> 
   <a href = "mailto:enzo.eng_97@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">  
@@ -56,6 +47,19 @@
   <a href="https://discord.gg/EUmmpDQZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
                                                                                                                                                   
   </div>
+                   
+                   
+### Status
+----
+   
+<p align = "center">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=EnzoDev97&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoDev97&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">
+  <br><br>
+    <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=EnzoDev97&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+</p>
+
+
                                                                                                                                                  
 
 
