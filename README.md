@@ -4,9 +4,10 @@
 ## Hello ,I'm  Enzo!!👋 </h2>
 
 
-•	👨‍🎓👨‍💻 Mechanical Engineer And Future Data Engineer.<br>
+•	👨‍🎓👨‍💻 Mechanical Engineer And Future Data Engineer.<br> Focused on becoming a Data Engineer.<br>
 •	🎯 Interest: Python, Excel & VBA, SQL, Data Analysis, Agile Methodology.<br>
-•	🦊 I am a proactive person and driven by challenges that take me out of my comfort zone. Trustworthy and committed to what I do, I am a very sociable and friendly person..<br>
+•	🦊  I have experience with Digital Marketing focused on Marketplaces and traffic management. Completed a Data course in a joint program between Let's code and Suzano. I am also acquiring more advanced knowledge in Python, SQL, Power BI, VBA and improving my analytical skills, such as Machine learning.
+       I am a proactive person driven by challenges that take me out of my comfort zone. Reliable and committed to what I do, I am a very sociable and friendly person, defender of causes I believe in..<br>
 
 <img align="right" alt="ENZO_HACKER" height="200" style="border-radius:40px;" src="https://media.discordapp.net/attachments/884254032917573652/1040841077499908096/ENZO_HACKER_1.1.gif">   
 
